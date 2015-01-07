@@ -1,0 +1,10 @@
+/* custom css for tk_mfg */
+
+ul.standards {
+    width: 30%;
+    
+    margin: auto;
+    
+    text-align: left;
+    font-size: 20px;
+}
