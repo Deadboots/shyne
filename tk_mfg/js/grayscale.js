@@ -41,7 +41,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(33.600433,-112.251116), // New York
+        center: new google.maps.LatLng(33.600433,-112.251116), // Peoria
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
