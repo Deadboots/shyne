@@ -15,3 +15,7 @@ header {
 .header {
     font-size: 72px;
 }
+
+.intro-body {
+    background: radial-gradient(circle farthest-corner at center, #333434, black);
+}
