@@ -1,0 +1,32 @@
+{
+  "name": "working_files",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Deadboots/shyne",
+  "authors": [
+    "Joshua Kozemzak <jkozemzak@gmail.com>"
+  ],
+  "description": "Experimentation with a Bootstrapped working environment",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "bootstrap",
+    "css",
+    "less",
+    "javascript",
+    "jquery"
+  ],
+  "license": "Apache",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
