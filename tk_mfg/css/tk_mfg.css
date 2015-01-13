@@ -17,5 +17,9 @@ header {
 }
 
 .intro-body {
-    background: radial-gradient(circle farthest-corner at center, #333434, black);
+    background: linear-gradient( 0deg, #1C1D1D, black );
+}
+
+body {
+    background: #1C1D1D;
 }
