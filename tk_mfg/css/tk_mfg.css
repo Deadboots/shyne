@@ -17,9 +17,9 @@ header {
 }
 
 .intro-body {
-    background: linear-gradient( 0deg, #1C1D1D, black );
+    background: linear-gradient( -35deg, #333333, black );
 }
 
 body {
-    background: #1C1D1D;
+    background: #333333;
 }
