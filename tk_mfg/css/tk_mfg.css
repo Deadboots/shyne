@@ -18,7 +18,8 @@ ul.caps {
     font-size: 20px;
 }
 
-a.ps {
+/* Generally applicable class for easing */
+a.ps li.ps {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
 }
